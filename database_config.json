@@ -1,0 +1,9 @@
+{
+  "prod": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "root",
+    "database": "database-name",
+    "multipleStatements": true
+  }
+}
